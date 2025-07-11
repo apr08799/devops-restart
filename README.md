@@ -24,6 +24,6 @@ Each folder in this repo contains code, notes, or automation tasks for real-time
 
 ## 📬 Contact
 
-- LinkedIn: [www.linkedin.com/in/pradeepraja-a-958b5a243](url)
-- GitHub: [https://github.com/apr08799/devops-restart](url)
+- LinkedIn: [www.linkedin.com/in/pradeepraja-a-958b5a243](www.linkedin.com/in/pradeepraja-a-958b5a243)
+- GitHub: [https://github.com/apr08799/devops-restart](https://github.com/apr08799/devops-restart)
   
